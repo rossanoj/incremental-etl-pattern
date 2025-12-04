@@ -1,0 +1,15 @@
+# Database dumps
+*.sql.backup
+*.dump
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
