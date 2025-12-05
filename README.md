@@ -1,5 +1,7 @@
 # Incremental ETL Pattern with Soft Delete
 
+git remote set-url origin https://rossanoj@github.com/rossanoj/incremental-etl-pattern.git
+
 Un patrón completo de ETL incremental con manejo de soft deletes, pensado para procesos de sincronización entre tablas origen-destino.
 
 ## 🎯 Objetivo
